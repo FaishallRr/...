@@ -23,7 +23,6 @@
 </head>
 <body>
   <div style="widht:10px">
-    <br><br>
     <center><img src="service/bg1.jpg" alt="Avatar" style="width:110px"></center>
     <br>
     <center><font size="5" color="white" font="">_𝔉𝔞𝔦𝔰𝔥𝔞𝔩𝔩ℜ𝔯</font></center>
