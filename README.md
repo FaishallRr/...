@@ -69,7 +69,7 @@
 
     <br>
 
-    <center><font size="1" color="black">Copyright ©2024 All Rights Reserved <br> Developer By Faishal </font></center>
+    <center><font size="1" color="black">Copyright ©2024 All Rights Reserved<br>Developer By Faishal </font></center>
 
 </body>
 </html>
