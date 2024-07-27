@@ -33,28 +33,28 @@
     <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 13px 103px "> 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺
     </button></center>
     </a>
-    <br><br>
+    <br>
     <a href="https://www.tiktok.com/@faishallrr_?_t=8nw9hFnF7Sq&_r=1">
     <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 13px 112px "> 𝐓𝗶𝗸𝐓𝗼𝗸
     </button></center>
     </a>
-    <br><br>
+    <br>
     <a href="mailto: faishalrasyid4@gmail.com">
     <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 13px 115px "> 𝗚𝗺𝗮𝗶𝗹
     </button></center>
     </a>
-    <br><br>
+    <br>
     <a href="https://x.com/dho_edho24?t=qGnpnbB0lw6CeaMRXEFGcA&s=09">
     <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 13px 114px "> 𝐓𝘄𝗶𝘁𝘁𝗲𝗿
     </button></center>
     </a>
-    <br><br>
+    <br>
     <a href="https://www.youtube.com/channel/UCPkKep675jouptQOtlE567w">
     <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 13px 110px "> 𝐘𝐨𝐮𝐓𝐮𝐛𝐞
     </button></center>
     </a>
 
-    <br><br>
+    <br><br><br>
     <center>
     <div gap="6" >
     
