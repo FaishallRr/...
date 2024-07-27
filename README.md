@@ -21,7 +21,7 @@
     </style>
 </head>
 <body>
-    <br><br><br><br>
+    
     <center><img src="service/bg1.jpg" alt="Avatar" style="width:140px"></center>
     <br>
     <center><font size="6" color="white" font="">_𝔉𝔞𝔦𝔰𝔥𝔞𝔩𝔩ℜ𝔯</font></center>
