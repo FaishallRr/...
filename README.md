@@ -1,12 +1,13 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
+    <title>Linktree Faishal</title>
     <style>
      body {
         background-image: url('service/linktree.jpg');
-        background-position: auto;
+        background-position: 0px 35px;
         width: auto;
         background-size: cover; /* atau 'contain' */
         font-family: Arial, Helvetica, sans-serif;
@@ -22,19 +23,20 @@
     </style>
 </head>
 <body>
+  <div style="widht:10px">
     <br><br>
-    <center><img src="service/bg1.jpg" alt="Avatar" style="width:130px"></center>
+    <center><img src="service/bg1.jpg" alt="Avatar" style="width:110px"></center>
     <br>
-    <center><font size="6" color="white" font="">_𝔉𝔞𝔦𝔰𝔥𝔞𝔩𝔩ℜ𝔯</font></center>
-    <center><font size="3" color="white" bold>𝐋𝐢𝐧𝐤𝐭𝐫𝐞𝐞 𝐅𝐚𝐢𝐬𝐡𝐚𝐥! 🎉🎉</font></center>
+    <center><font size="5" color="white" font="">_𝔉𝔞𝔦𝔰𝔥𝔞𝔩𝔩ℜ𝔯</font></center>
+    <center><font size="2" color="white" bold>𝐋𝐢𝐧𝐤𝐭𝐫𝐞𝐞 𝐅𝐚𝐢𝐬𝐡𝐚𝐥! 🎉🎉</font></center>
     <br><br><br>
     <a href="https://www.instagram.com/_faishallrr?igsh=MXV2Y3ZkOWo2djJ6cw==" >
-    <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 13px 103px "> 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺
+    <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 10px 103px "> 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺
     </button></center>
     </a>
     <br>
     <a href="https://www.tiktok.com/@faishallrr_?_t=8nw9hFnF7Sq&_r=1">
-    <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 13px 112px "> 𝐓𝗶𝗸𝐓𝗼𝗸
+    <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 10px 115px "> 𝐓𝗶𝗸𝐓𝗼𝗸
     </button></center>
     </a>
     <br>
@@ -44,16 +46,16 @@
     </a>
     <br>
     <a href="https://x.com/dho_edho24?t=qGnpnbB0lw6CeaMRXEFGcA&s=09">
-    <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 13px 113px "> 𝐓𝘄𝗶𝘁𝘁𝗲𝗿
+    <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 10px 113px "> 𝐓𝘄𝗶𝘁𝘁𝗲𝗿
     </button></center>
     </a>
     <br>
     <a href="https://www.youtube.com/channel/UCPkKep675jouptQOtlE567w">
-    <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 13px 108px "> 𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+    <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 10px 108px "> 𝐘𝐨𝐮𝐓𝐮𝐛𝐞
     </button></center>
     </a>
 
-    <br><br><br>
+    <br><br>
     <center>
     <div gap="6" >
     
@@ -66,9 +68,10 @@
     </div>
     </center>
 
-    <br>
+    
 
-    <center><font size="1" color="black">Copyright ©2024 All Rights Reserved <br> Developer By Faishal </font></center>
-
+    <center><font size="1" color="black">Copyright ©2024 All Rights Reserved</font></center>
+    <center><font size="1" color="black">Developer By Faishal</font></center>
+  </div>
 </body>
 </html>
