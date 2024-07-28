@@ -66,7 +66,7 @@
     </div>
     </center>
 
-    
+    <br>
 
     <center><font size="1" color="black">Copyright ©2024 All Rights Reserved</font></center>
     <center><font size="1" color="black">Developer By Faishal</font></center>
