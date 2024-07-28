@@ -27,9 +27,9 @@
     <br>
     <center><font size="5" color="white" font="">_𝔉𝔞𝔦𝔰𝔥𝔞𝔩𝔩ℜ𝔯</font></center>
     <center><font size="2" color="white" bold>𝐋𝐢𝐧𝐤𝐭𝐫𝐞𝐞 𝐅𝐚𝐢𝐬𝐡𝐚𝐥! 🎉🎉</font></center>
-    <br><br><br>
+    <br><br>
     <a href="https://www.instagram.com/_faishallrr?igsh=MXV2Y3ZkOWo2djJ6cw==" >
-    <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 10px 103px "> 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺
+    <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 10px 106px "> 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦
     </button></center>
     </a>
     <br>
@@ -39,17 +39,17 @@
     </a>
     <br>
     <a href="mailto: faishalrasyid4@gmail.com">
-    <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 13px 118px "> 𝗚𝗺𝗮𝗶𝗹
+    <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 10px 119px "> 𝐆𝐦𝐚𝐢𝐥
     </button></center>
     </a>
     <br>
     <a href="https://x.com/dho_edho24?t=qGnpnbB0lw6CeaMRXEFGcA&s=09">
-    <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 10px 113px "> 𝐓𝘄𝗶𝘁𝘁𝗲𝗿
+    <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 10px 114px "> 𝐓𝘄𝗶𝘁𝘁𝗲𝗿
     </button></center>
     </a>
     <br>
     <a href="https://www.youtube.com/channel/UCPkKep675jouptQOtlE567w">
-    <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 10px 108px "> 𝐘𝐨𝐮𝐓𝐮𝐛𝐞
+    <center><button class="fa fa-edit" style="border-radius: 10px 10px 10px 10px; background-color: transparent; border: 2px solid white; color: white; font-size: 15px; padding: 10px 109px "> 𝐘𝐨𝐮𝐓𝐮𝐛𝐞
     </button></center>
     </a>
 
