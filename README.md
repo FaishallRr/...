@@ -8,7 +8,7 @@
     body {
       background-image: url('service/linktree.jpg');
       background-repeat: no-repeat;
-      background-attachment: fixed;
+      background-attachment: none;
       background-size: cover;
       /* atau 'contain' */
       font-family: Arial, Helvetica, sans-serif;
